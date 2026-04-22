@@ -1,5 +1,5 @@
 # United Airlines Flight Time Recovery Analysis
-**Course:** DATA 5300 – Applied Statistical Inference & Experimental Design  
+**Course:** DATA 5300 - Applied Statistical Inference & Experimental Design  
 **Institution:** Seattle University, MS in Data Science  
 **Term:** Fall 2025  
 **Team:** Hamda H, Ruman S, Aaron D, Carter W  
@@ -57,7 +57,7 @@ This repository contains **my individual code contribution** to the group projec
 
 ## Key Findings
 
-- On-time/early flights gained an average of **3.90 minutes per hour** vs. **3.18 minutes per hour** for late departures — a statistically significant difference (p < 0.001)
+- On-time/early flights gained an average of **3.90 minutes per hour** vs. **3.18 minutes per hour** for late departures - a statistically significant difference (p < 0.001)
 - Flights delayed more than 30 minutes consistently showed the lowest time recovery
 - UA flights recovered roughly **7–9 minutes** on average across the top 5 destinations (ORD, IAH, SFO, LAX, DEN), with similar patterns across all five
 - **Air time** was the strongest predictor of gain in the regression model; distance alone was not significant
